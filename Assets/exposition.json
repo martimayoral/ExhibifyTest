@@ -1,0 +1,434 @@
+{
+    "name": {
+        "en_EN": "Test Lights",
+        "es_ES": "Test Lights",
+        "pt_PT": null
+    },
+    "has_floor": true,
+    "has_ceil": true,
+    "ceil": {
+        "width": 800,
+        "height": 350,
+        "has_texture": 0,
+        "texture": "empty",
+        "color": "#FFFFFF",
+        "startFrom": {
+            "x": 0,
+            "y": 150,
+            "z": 0
+        }
+    },
+    "floor": {
+        "width": 800,
+        "height": 350,
+        "has_texture": 1,
+        "texture": "2502",
+        "color": "#999999",
+        "startFrom": {
+            "x": 0,
+            "y": -150,
+            "z": 0
+        }
+    },
+    "entrance": {
+        "x": -7,
+        "y": 0,
+        "z": 574,
+        "angle": 0
+    },
+    "map": {
+        "walls": [
+            {
+                "name": "Wall 244",
+                "startFrom": {
+                    "x": -400,
+                    "y": 0,
+                    "z": 0
+                },
+                "width": 350,
+                "height": 300,
+                "thickness": 30,
+                "angle": 90,
+                "has_texture": 0,
+                "texture": "empty",
+                "color": "#ffffff",
+                "pictures": [
+                    {
+                        "id": "2279c962-5e2d-4054-b084-3a36c1595171",
+                        "startFrom": {
+                            "x": 0,
+                            "y": 0.5,
+                            "z": -91
+                        },
+                        "side": "right",
+                        "width": "64.00",
+                        "height": "87.00",
+                        "depth": 4,
+                        "url": "https://d3sk91qey8mb38.cloudfront.net/?src=https://d22j8f47u6lqy6.cloudfront.net/WOGhSyY7Suue6sFOaZ7J8JLIO.jpeg&w=800",
+                        "label": {
+                            "start_from": {
+                                "x": 0,
+                                "y": -49,
+                                "z": -60
+                            },
+                            "width": 2,
+                            "height": 2,
+                            "x_offset": 0,
+                            "y_offset": 5
+                        },
+                        "has_frame": 0,
+                        "frame": [],
+                        "edge_color": "#ffffff",
+                        "userData": {
+                            "title": {
+                                "en_EN": "Elements II",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "artist": {
+                                "firstname": "Alehk",
+                                "lastname": "Rod"
+                            },
+                            "year": "2021",
+                            "photo": {
+                                "original": "https://d22j8f47u6lqy6.cloudfront.net/WOGhSyY7Suue6sFOaZ7J8JLIO.jpeg"
+                            },
+                            "width": 64,
+                            "height": 87,
+                            "depth": 4,
+                            "unit": "cm",
+                            "duration": "",
+                            "autostart_video": true,
+                            "mute_video": false,
+                            "price": null,
+                            "currency": "EUR",
+                            "technique": {
+                                "en_EN": "Serigrafía",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "has_variable_dimensions": 0,
+                            "is_unique": 0,
+                            "edition_number": 1,
+                            "edition_total": 5,
+                            "description": {
+                                "en_EN": null,
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "media_type": "IMAGE",
+                            "like_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=work_details&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48&w_uuid=2279c962-5e2d-4054-b084-3a36c1595171",
+                            "contact_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=contact&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48"
+                        }
+                    },
+                    {
+                        "id": "e39be77f-94c8-4c37-b629-69751e5b8d56",
+                        "startFrom": {
+                            "x": 0,
+                            "y": 5,
+                            "z": 78
+                        },
+                        "side": "right",
+                        "width": "114.00",
+                        "height": "162.00",
+                        "depth": 4,
+                        "url": "https://d3sk91qey8mb38.cloudfront.net/?src=https://d22j8f47u6lqy6.cloudfront.net/mLaYekwe74tb8yL9DrHxdqC0C.jpeg&w=800",
+                        "label": {
+                            "start_from": {
+                                "x": 0,
+                                "y": -82,
+                                "z": 134
+                            },
+                            "width": 2,
+                            "height": 2,
+                            "x_offset": 0,
+                            "y_offset": 5
+                        },
+                        "has_frame": 0,
+                        "frame": [],
+                        "edge_color": "#ffffff",
+                        "userData": {
+                            "title": {
+                                "en_EN": "Dorado Daiquiri",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "artist": {
+                                "firstname": "Alehk",
+                                "lastname": "Rod"
+                            },
+                            "year": "2021",
+                            "photo": {
+                                "original": "https://d22j8f47u6lqy6.cloudfront.net/mLaYekwe74tb8yL9DrHxdqC0C.jpeg"
+                            },
+                            "width": 114,
+                            "height": 162,
+                            "depth": 4,
+                            "unit": "cm",
+                            "duration": "",
+                            "autostart_video": true,
+                            "mute_video": false,
+                            "price": null,
+                            "currency": "EUR",
+                            "technique": {
+                                "en_EN": "Acrylic on canvas",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "has_variable_dimensions": 0,
+                            "is_unique": 0,
+                            "edition_number": 1,
+                            "edition_total": 1,
+                            "description": {
+                                "en_EN": null,
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "media_type": "IMAGE",
+                            "like_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=work_details&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48&w_uuid=e39be77f-94c8-4c37-b629-69751e5b8d56",
+                            "contact_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=contact&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Wall 849",
+                "startFrom": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -175
+                },
+                "width": 830,
+                "height": 300,
+                "thickness": 30,
+                "angle": 0,
+                "has_texture": 0,
+                "texture": "empty",
+                "color": "#ffffff",
+                "pictures": [
+                    {
+                        "id": "6611dae6-44ce-4e15-93c5-fc077e5c7c03",
+                        "startFrom": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "side": "right",
+                        "width": "300.00",
+                        "height": "160.00",
+                        "depth": 4,
+                        "url": "https://d22j8f47u6lqy6.cloudfront.net/5kbxGKZ1qpewALllj1Ee0kRr3.jpeg",
+                        "label": {
+                            "start_from": {
+                                "x": 149,
+                                "y": -86,
+                                "z": 0
+                            },
+                            "width": 2,
+                            "height": 2,
+                            "x_offset": 0,
+                            "y_offset": 5
+                        },
+                        "has_frame": 0,
+                        "frame": [],
+                        "edge_color": "#E7BDED",
+                        "userData": {
+                            "title": {
+                                "en_EN": "Luces de cocktail y otras cosas que me confunden",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "artist": {
+                                "firstname": "Alehk",
+                                "lastname": "Rod"
+                            },
+                            "year": "2021",
+                            "photo": {
+                                "original": "https://d22j8f47u6lqy6.cloudfront.net/5kbxGKZ1qpewALllj1Ee0kRr3.jpeg"
+                            },
+                            "width": 300,
+                            "height": 160,
+                            "depth": 4,
+                            "unit": "cm",
+                            "duration": "",
+                            "autostart_video": true,
+                            "mute_video": false,
+                            "price": null,
+                            "currency": "EUR",
+                            "technique": {
+                                "en_EN": "Acrylic on canvas",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "has_variable_dimensions": 0,
+                            "is_unique": 0,
+                            "edition_number": 1,
+                            "edition_total": 1,
+                            "description": {
+                                "en_EN": null,
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "media_type": "IMAGE",
+                            "like_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=work_details&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48&w_uuid=6611dae6-44ce-4e15-93c5-fc077e5c7c03",
+                            "contact_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=contact&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Wall 840",
+                "startFrom": {
+                    "x": 400,
+                    "y": 0,
+                    "z": 0
+                },
+                "width": 350,
+                "height": 300,
+                "thickness": 30,
+                "angle": 90,
+                "has_texture": 0,
+                "texture": "empty",
+                "color": "#ffffff",
+                "pictures": [
+                    {
+                        "id": "e9afbcd4-708b-45fa-bd75-ed5433a8d7f0",
+                        "startFrom": {
+                            "x": 0,
+                            "y": 15,
+                            "z": 0
+                        },
+                        "side": "left",
+                        "width": "150.00",
+                        "height": "150.00",
+                        "depth": 4,
+                        "url": "https://d3sk91qey8mb38.cloudfront.net/?src=https://d22j8f47u6lqy6.cloudfront.net/QFCTGdPEgQhD2dKVksWMemlHG.jpeg&w=800",
+                        "label": {
+                            "start_from": {
+                                "x": 0,
+                                "y": -66,
+                                "z": 76
+                            },
+                            "width": 2,
+                            "height": 2,
+                            "x_offset": 0,
+                            "y_offset": 5
+                        },
+                        "has_frame": 0,
+                        "frame": [],
+                        "edge_color": "#A5CCA9",
+                        "userData": {
+                            "title": {
+                                "en_EN": "Mint Julep",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "artist": {
+                                "firstname": "Alehk",
+                                "lastname": "Rod"
+                            },
+                            "year": "2021",
+                            "photo": {
+                                "original": "https://d22j8f47u6lqy6.cloudfront.net/QFCTGdPEgQhD2dKVksWMemlHG.jpeg"
+                            },
+                            "width": 150,
+                            "height": 150,
+                            "depth": 4,
+                            "unit": "cm",
+                            "duration": "",
+                            "autostart_video": true,
+                            "mute_video": false,
+                            "price": null,
+                            "currency": "EUR",
+                            "technique": {
+                                "en_EN": "Acrylic on canvas",
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "has_variable_dimensions": 0,
+                            "is_unique": 0,
+                            "edition_number": 1,
+                            "edition_total": 1,
+                            "description": {
+                                "en_EN": null,
+                                "es_ES": null,
+                                "pt_PT": null
+                            },
+                            "media_type": "IMAGE",
+                            "like_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=work_details&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48&w_uuid=e9afbcd4-708b-45fa-bd75-ed5433a8d7f0",
+                            "contact_url": "https://arco-exhibitions.ifema.es/index.php?p=e-xhibition-2d&a=contact&uuid=f84a7a3e-37b1-431e-975b-dbb1c38c3a48"
+                        }
+                    }
+                ]
+            }
+        ],
+        "lights": [
+            {
+                "name": "Light 352",
+                "color": "#ffffff",
+                "intensity": 8,
+                "startFrom": {
+                    "x": -10,
+                    "y": 150,
+                    "z": -87
+                },
+                "orientation": 0,
+                "opening_angle": "120.00",
+                "angle": -45
+            },
+            {
+                "name": "Light 138",
+                "color": "#ffffff",
+                "intensity": 7.5,
+                "startFrom": {
+                    "x": -310,
+                    "y": 150,
+                    "z": 89
+                },
+                "orientation": 270,
+                "opening_angle": "85.00",
+                "angle": -45
+            },
+            {
+                "name": "Light 372",
+                "color": "#ffffff",
+                "intensity": 7,
+                "startFrom": {
+                    "x": -319,
+                    "y": 150,
+                    "z": -90
+                },
+                "orientation": 270,
+                "opening_angle": "85.00",
+                "angle": -45
+            },
+            {
+                "name": "Light 676",
+                "color": "#ffffff",
+                "intensity": 8.5,
+                "startFrom": {
+                    "x": 303,
+                    "y": 150,
+                    "z": 0
+                },
+                "orientation": 90,
+                "opening_angle": "95.00",
+                "angle": -45
+            }
+        ],
+        "spots": [
+            {
+                "name": "Spot 427",
+                "type": "ARTWORK",
+                "orientation": 0,
+                "startFrom": {
+                    "x": -448,
+                    "y": -150,
+                    "z": -119
+                },
+                "picture_id": "cd25b094-5bbd-4941-b009-964e2b3b4d5e"
+            }
+        ]
+    },
+    "sculptures": []
+}
