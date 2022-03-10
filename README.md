@@ -1,2 +1,2 @@
-# ExhibifyTest
+# ExhibifyTest by Martí Mayoral
  
